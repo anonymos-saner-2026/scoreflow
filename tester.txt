@@ -1,0 +1,366 @@
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum name 'my_sum' is not defined
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum name 'm' is not defined
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum name 'm' is not defined
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum name 'y' is not defined
+my_sum name 'm' is not defined
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum name 'm' is not defined
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+my_sum invalid syntax (<string>, line 2)
+digits name 'f' is not defined
+digits name 'f' is not defined
+digits name 'i' is not defined
+fib name 'e' is not defined
+fib name 'fib' is not defined
+fib name 'd' is not defined
+test_error of digits
+test_error of digits
+check_dict_case name 'd' is not defined
+check_dict_case name 'f' is not defined
+check_dict_case name 'd' is not defined
+test_error of digits
+filter_by_prefix name 'r' is not defined
+test_error of check_dict_case
+check_dict_case 'int' object has no attribute 'islower'
+test_error of check_dict_case
+filter_by_prefix name 'r' is not defined
+filter_by_prefix name 'r' is not defined
+filter_by_prefix name 'r' is not defined
+filter_by_prefix name 'r' is not defined
+filter_by_prefix name 'r' is not defined
+test_error of check_dict_case
+test_error of check_dict_case
+right_angle_triangle name 'right_angle_triangle' is not defined
+right_angle_triangle name 'd' is not defined
+right_angle_triangle name 'right_angle_triangle' is not defined
+right_angle_triangle name 'd' is not defined
+right_angle_triangle name 'right_angle_triangle' is not defined
+right_angle_triangle name 'right_angle_triangle' is not defined
+test_error of check_dict_case
+test_error of check_dict_case
+test_error of check_dict_case
+test_error of check_dict_case
+words_string name 'words_string' is not defined
+words_string name 'words_string' is not defined
+words_string name 'd' is not defined
+words_string name 'words_string' is not defined
+words_string name 'words_string' is not defined
+words_string name 'e' is not defined
+order_by_points name 'e' is not defined
+order_by_points name 'e' is not defined
+order_by_points name 'e' is not defined
+test_error of check_dict_case
+order_by_points name 'r' is not defined
+order_by_points name 'e' is not defined
+order_by_points name 'd' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_dict_case
+test_error of order_by_points
+test_error of order_by_points
+sort_numbers name 't' is not defined
+sort_numbers name 't' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+sort_numbers name 't' is not defined
+test_error of check_dict_case
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_dict_case
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of check_dict_case
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+digitSum name 'e' is not defined
+digitSum name 'e' is not defined
+digitSum name 'e' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+digitSum name 'e' is not defined
+digitSum name 'e' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+digitSum name 'e' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+check_dict_case name 'd' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+check_dict_case 'int' object has no attribute 'islower'
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+order_by_points name 'e' is not defined
+order_by_points name 'r' is not defined
+order_by_points name 'e' is not defined
+order_by_points name 'e' is not defined
+order_by_points name 'e' is not defined
+order_by_points name 'e' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+count_distinct_characters name 'd' is not defined
+count_distinct_characters name 'f' is not defined
+count_distinct_characters name 'f' is not defined
+is_multiply_prime name 'd' is not defined
+is_multiply_prime name 'd' is not defined
+is_multiply_prime name 'd' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+is_multiply_prime name 'd' is not defined
+is_multiply_prime name 'd' is not defined
+is_multiply_prime name 'd' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+how_many_times name 'how_many_times' is not defined
+how_many_times name 'how_many_times' is not defined
+how_many_times name 'how_many_times' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+is_prime name 'd' is not defined
+is_prime name 'p' is not defined
+is_prime name 'p' is not defined
+test_error of order_by_points
+is_prime name 'p' is not defined
+is_prime name 'p' is not defined
+test_error of order_by_points
+is_prime name 'p' is not defined
+is_prime name 's' is not defined
+is_prime name 'p' is not defined
+test_error of order_by_points
+even_odd_count name 'even_odd_count' is not defined
+even_odd_count name 'even_odd_count' is not defined
+even_odd_count name 'd' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+count_upper name 'u' is not defined
+count_upper name 'e' is not defined
+count_upper name 'f' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of count_upper
+test_error of count_upper
+test_error of count_upper
+test_error of count_upper
+order_by_points name 'e' is not defined
+order_by_points name 'e' is not defined
+order_by_points name 'e' is not defined
+order_by_points name 'e' is not defined
+order_by_points name 'e' is not defined
+order_by_points name 'e' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+do_algebra name 'do_algebra' is not defined
+do_algebra name 'b' is not defined
+do_algebra name 'a' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+special_factorial name 'p' is not defined
+special_factorial name 'f' is not defined
+test_error of do_algebra
+special_factorial name 'special_factorial' is not defined
+test_error of do_algebra
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+do_algebra '+++'
+test_error of order_by_points
+do_algebra 3
+test_error of order_by_points
+do_algebra 3
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+hex_key name 'hex_key' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+hex_key name 'hex_key' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of do_algebra
+hex_key name 'hex_key' is not defined
+test_error of order_by_points
+sum_to_n name 'sum_to_n' is not defined
+test_error of order_by_points
+sum_to_n name 'sum_to_n' is not defined
+sum_to_n name 'sum_to_n' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+sum_to_n name 'sum_to_n' is not defined
+test_error of do_algebra
+do_algebra pop from empty list
+sum_to_n name 'sum_to_n' is not defined
+test_error of order_by_points
+sum_to_n name 'f' is not defined
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+do_algebra pop from empty list
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of do_algebra
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+test_error of order_by_points
+do_algebra 3
+test_error of do_algebra
+do_algebra 3
+test_error of do_algebra
+my_sum invalid syntax (<string>, line 2)

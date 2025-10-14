@@ -1,0 +1,15 @@
+models:
+ "gpt-4o-mini": # put your model name here
+   api_type: "openai"
+   base_url: "https://api.yescale.io"
+   api_key: "sk-1BRrBUMuTy3oIc74wSQ2Cw9Kv4zzeSylUFyemcGUejKxupwt"
+   temperature: 0
+CALC_USAGE: True
+
+llm:
+  api_type: "openai"
+  base_url: "https://api.yescale.io"
+  api_key: "sk-1BRrBUMuTy3oIc74wSQ2Cw9Kv4zzeSylUFyemcGUejKxupwt"
+  model: "gpt-4o-mini"
+
+

@@ -1,0 +1,15 @@
+dataset: MATH
+
+CUDA_VISIBLE_DEVICES: "5"
+
+executor:
+  model: gpt-4o-mini
+  temperature: 0.0
+
+generator:
+  model: codellama/CodeLlama-13b-Instruct-hf
+  temperature: 0.3
+
+# Phind/Phind-CodeLlama-34B-v2
+# Qwen/Qwen3-8B
+# HuggingFaceTB/SmolLM3-3B
