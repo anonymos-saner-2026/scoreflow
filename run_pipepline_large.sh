@@ -86,7 +86,7 @@ echo "[DONE] Pipeline hoàn tất. Tất cả artifacts nằm trong: $OUTDIR" | 
 # 1) Convert scores PKL thành JSON
 SCORE_JSON="${SCORES_PKL%.pkl}.json"
 echo "[STEP] Converting scores PKL to JSON..."
-python3 convert_to_json.py --pkl_path "$SCORES_PKL" 2>&1 | tee -a "$OUTDIR/run.log"
+python3 convert_pkl_to_json.py --pkl_path "$SCORES_PKL" 2>&1 | tee -a "$OUTDIR/run.log"
 
 if [[ -f "$SCORE_JSON" ]]; then
   echo "[INFO] Saved score JSON -> $SCORE_JSON" | tee -a "$OUTDIR/run.log"
@@ -104,6 +104,6 @@ fi
 
 # 2) Chạy convert_to_json_score.py trên file JSON vừa tạo
 echo "[STEP] Post-processing score JSON..."
-python3 convert_to_json_score.py --input "$SCORE_JSON" 2>&1 | tee -a "$OUTDIR/run.log"
+python3 convert_pkl_to_json_score.py --input "$SCORE_JSON" 2>&1 | tee -a "$OUTDIR/run.log"
 
 echo "[ALL DONE] Đã convert & hậu xử lý điểm. Xem thư mục: $OUTDIR" | tee -a "$OUTDIR/run.log"
