@@ -254,7 +254,7 @@ def main():
     exec_provider = APILLMProviderShim(
         base_url="https://api.yescale.io/v1",
         api_key="sk-AOzQMlsMqmhCbXzCAOOOCkFuOGi9Yx4741EpvrsdWpceYdNM",
-        model_name="gpt-3.5-turbo",
+        model_name="gpt-4o-mini",
         temperature=0.0,
         top_p=0.95,
         max_tokens=512,
