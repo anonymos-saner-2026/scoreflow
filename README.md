@@ -2,7 +2,7 @@
 ## Setup
 
 
-3. Download [dataset](https://github.com/yinjjiew/Data/raw/main/scoreflow_data/data.zip) and unzip it in this directory `./`.
+<!-- 3. Download [dataset](https://github.com/yinjjiew/Data/raw/main/scoreflow_data/data.zip) and unzip it in this directory `./`. -->
 4. To set up the environment, follow these steps:
 
 ```bash
