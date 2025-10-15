@@ -1,8 +1,7 @@
 
 ## Setup
 
-1. You need approximately **80-90GB** VRAM. You can modify your GPU settings in `./config/config1.yaml`.
-2. Set up your api key in `./config/config2.yaml`. If your rate per minute is less than 1000, we suggest lowering the
+
 3. Download [dataset](https://github.com/yinjjiew/Data/raw/main/scoreflow_data/data.zip) and unzip it in this directory `./`.
 4. To set up the environment, follow these steps:
 
@@ -20,7 +19,7 @@ You can ignore the dependency error of metagpt 1.0.0.
 
 
 ## Generate Workflow Graph and Get Scores (For Large Model)
-Modify Generator API in generator_large.py, then run
+Update the Generator API in generator_large.py, then execute the following to generate the workflow graph and obtain scores.
 
 ```bash
 bash run_pipeline_large.sh <DATASET> <TASK> <EPOCH>
