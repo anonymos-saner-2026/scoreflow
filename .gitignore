@@ -1,0 +1,6 @@
+logs/
+metagpt_local/
+runs/
+scoreflow_workspace/
+workspace/
+metagpt/
